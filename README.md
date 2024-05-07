@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=dWbSrh5iVRQ&ab_channel=Gemeltec
 [] - cards styles
 [] - colors styles
 [] - buttons styles
+
+git push -u origin main
